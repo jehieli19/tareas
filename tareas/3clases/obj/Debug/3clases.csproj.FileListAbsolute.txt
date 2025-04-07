@@ -1,0 +1,8 @@
+C:\Users\jehie\Downloads\Nueva carpeta\3Clases\3clases\obj\Debug\3clases.csproj.AssemblyReference.cache
+C:\Users\jehie\Downloads\Nueva carpeta\3Clases\3clases\obj\Debug\_3clases.Properties.Resources.resources
+C:\Users\jehie\Downloads\Nueva carpeta\3Clases\3clases\obj\Debug\3clases.csproj.GenerateResource.cache
+C:\Users\jehie\Downloads\Nueva carpeta\3Clases\3clases\obj\Debug\3clases.csproj.CoreCompileInputs.cache
+C:\Users\jehie\OneDrive\Documentos\tarea codigos\3Clases\3clases\obj\Debug\3clases.csproj.AssemblyReference.cache
+C:\Users\jehie\OneDrive\Documentos\tarea codigos\3Clases\3clases\obj\Debug\_3clases.Properties.Resources.resources
+C:\Users\jehie\OneDrive\Documentos\tarea codigos\3Clases\3clases\obj\Debug\3clases.csproj.GenerateResource.cache
+C:\Users\jehie\OneDrive\Documentos\tarea codigos\3Clases\3clases\obj\Debug\3clases.csproj.CoreCompileInputs.cache

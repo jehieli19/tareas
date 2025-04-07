@@ -1,0 +1,39 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Ingrese un número para verificar si es primo:");
+        int N = int.Parse(Console.ReadLine());
+        
+        if (EsPrimo(N))
+        {
+            Console.WriteLine($"El número {N} es primo.");
+        }
+        else
+        {
+            Console.WriteLine($"El número {N} no es primo.");
+        }
+    }
+
+    static bool EsPrimo(int N)
+    {
+        // Los números menores o iguales a 1 no son primos
+        if (N <= 1)
+        {
+            return false;
+        }
+
+        // Verificar divisores desde 2 hasta la raíz cuadrada de N
+        for (int i = 2; i <= Math.Sqrt(N); i++)
+        {
+            if (N % i == 0)
+            {
+                return false; // Encontramos un divisor, no es primo
+            }
+        }
+
+        return true; // No se encontró divisor, es primo
+    }
+}
